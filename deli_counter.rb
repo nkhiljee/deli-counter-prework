@@ -1,6 +1,6 @@
 # Write your code here.
 
-katzdeli = []
+katz_deli = []
 def line(katzdeli)
   if katzdeli.length > 0 
     puts "Your current place in line is #{katzdeli.length}."
